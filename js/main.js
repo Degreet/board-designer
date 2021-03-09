@@ -3,8 +3,8 @@ import save from './parts/save.js';
 
 const ctx = canv.getContext('2d');
 
-const radius = 15;
-const lineWidth = 5;
+const radius = 12;
+const lineWidth = 9;
 const color1 = '#37c74b';
 const color2 = '#1f9c1f';
 
