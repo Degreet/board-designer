@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Comfortaa', sans-serif;
+	box-sizing: border-box;
+	outline: none;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: #1e1f22;
+	height: 100vh;
+}
+
+canvas {
+	background: #24262b;
+	border-radius: 3px;
+}
