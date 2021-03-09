@@ -85,6 +85,7 @@ window.onload = window.onresize = () => {
 
 	canv.width = width;
 	canv.height = height;
+	render();
 };
 
 canv.onclick = (e) => {
